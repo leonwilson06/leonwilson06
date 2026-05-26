@@ -45,7 +45,6 @@ Currently sharpening my data-validation and reporting workflows in a logistics c
 ## Certifications
 
 - Power BI Essential Training — LinkedIn Learning
-- *(in progress)* Microsoft PL-300 — Power BI Data Analyst Associate
 
 ## Contact
 
