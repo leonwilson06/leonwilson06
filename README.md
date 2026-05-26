@@ -15,15 +15,17 @@ Currently sharpening my data-validation and reporting workflows in a logistics c
 
 | Project | Domain | Stack | Headline |
 |---|---|---|---|
-| [Donor Behaviour — MobileImpact](../01-mobileimpact-donor-behaviour) | NGO / Marketing | BigQuery · Looker Studio · SQL · RFM | Omnichannel donors = 18% of base, **45% of revenue** |
-| [World Vision Donor Journeys](../02-worldvision-donor-journeys) | NGO Capstone | Power BI · Power Query · Customer Journey Mapping | Surfaced **11–15 day** optimal online engagement window |
-| [MindMesh AI (3-in-1)](../03-mindmesh-ai-solutions) | Recycling / Energy / Environment | Python · CNN · BiLSTM · MLP | **85.16% accuracy** CNN, BiLSTM RMSE **~0.49** |
-| [Airline Sentiment — Insight IQ](../04-airline-sentiment-insightiq) | Aviation | Python · VADER · LDA | NLP on **50,000 reviews** |
-| [Data2Intel Student Underperformance](../05-data2intel-student-underperformance) | EdTech | Python · XGBoost · K-Means · PCA | Gradient Boosting **73.7% accuracy, ROC-AUC 0.7511** |
-| [Victoria Road Accidents + Weather](../06-victoria-accidents-weather) | Public Safety | R · Poisson · Neg. Binomial · GAM | EHF heatwave covariate, GAM model |
-| [PQC Game Ratings](../07-pqc-game-ratings) | Gaming | Python · Linear Regression | 24,000+ games, R² 0.43 |
-| [Airbnb Madrid Rentals](../08-airbnb-madrid-rentals) | Hospitality | RapidMiner · Sentiment Analysis | RMSE 4.53, RRSE 0.50 |
-| [Red Wine Quality](../09-red-wine-quality) | Wine / Quality Control | R · WPM · OWA · WAM | RMSE 0.179 (WPM p=2 wins) |
+| [Donor Behaviour — MobileImpact](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/01-mobileimpact-donor-behaviour) | NGO / Marketing | BigQuery · Looker Studio · SQL · RFM | Omnichannel donors = 18% of base, **45% of revenue** |
+| [World Vision Donor Journeys](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/02-worldvision-donor-journeys) | NGO Capstone | Power BI · Power Query · Customer Journey Mapping | Surfaced **11–15 day** optimal online engagement window |
+| [MindMesh AI (3-in-1)](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/03-mindmesh-ai-solutions) | Recycling / Energy / Environment | Python · CNN · BiLSTM · MLP | **85.16% accuracy** CNN, BiLSTM RMSE **~0.49** |
+| [Airline Sentiment — Insight IQ](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/04-airline-sentiment-insightiq) | Aviation | Python · VADER · LDA | NLP on **50,000 reviews** |
+| [Data2Intel Student Underperformance](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/05-data2intel-student-underperformance) | EdTech | Python · XGBoost · K-Means · PCA | Gradient Boosting **73.7% accuracy, ROC-AUC 0.7511** |
+| [Victoria Road Accidents + Weather](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/06-victoria-accidents-weather) | Public Safety | R · Poisson · Neg. Binomial · GAM | EHF heatwave covariate, GAM model |
+| [PQC Game Ratings](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/07-pqc-game-ratings) | Gaming | Python · Linear Regression | 24,000+ games, R² 0.43 |
+| [Airbnb Madrid Rentals](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/08-airbnb-madrid-rentals) | Hospitality | RapidMiner · Sentiment Analysis | RMSE 4.53, RRSE 0.50 |
+| [Red Wine Quality](https://github.com/leonwilson06/business-analytics-portfolio/tree/main/09-red-wine-quality) | Wine / Quality Control | R · WPM · OWA · WAM | RMSE 0.179 (WPM p=2 wins) |
+
+➡️ **[See the full portfolio repo](https://github.com/leonwilson06/business-analytics-portfolio)**
 
 ## Tools I work with
 
@@ -43,11 +45,11 @@ Currently sharpening my data-validation and reporting workflows in a logistics c
 ## Certifications
 
 - Power BI Essential Training — LinkedIn Learning
-
+- *(in progress)* Microsoft PL-300 — Power BI Data Analyst Associate
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/leon-wilson-430852374](https://www.linkedin.com/in/leon-wilson-430852374)
+- LinkedIn: [linkedin.com/in/leonwilson06](https://www.linkedin.com/in/leonwilson06)
 - Email: leonwilson0011@gmail.com
 - Phone: +61 478 358 003
 
