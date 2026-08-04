@@ -58,7 +58,7 @@ All nine were completed during my Master of Business Analytics at Deakin Univers
 ## Contact
 
 - LinkedIn: [linkedin.com/in/leonwilson06](https://www.linkedin.com/in/leonwilson06)
-- Email: leonwilson0011@gmail.com
+- Email: leonwilson4592@gmail.com
 - Phone: +61 478 358 003
 
 ---
