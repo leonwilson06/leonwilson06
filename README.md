@@ -49,7 +49,7 @@ Currently sharpening my data-validation and reporting workflows in a logistics c
 ## Contact
 
 - LinkedIn: [linkedin.com/in/leonwilson06](https://www.linkedin.com/in/leonwilson06)
-- Email: leonwilson0011@gmail.com
+- Email: leonwilson4592@gmail.com
 - Phone: +61 478 358 003
 
 ---
